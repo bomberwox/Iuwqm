@@ -2,7 +2,7 @@
     "Iugnq": {
         "code": "200",
         "inData": {
-            "kakaluo": true,
+            "kakaluo": false,
             "version": "1",
             "name":"2.1.0"
         }
